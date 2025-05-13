@@ -28,8 +28,6 @@ guide](https://learn.microsoft.com/vcpkg/contributing/maintainer-guide).
 
 # Get started
 
-First, follow one of our quick start guides.
-
 Whether you're using CMake, MSBuild, or any other build system, vcpkg has you covered:
 
 * [vcpkg with CMake](https://learn.microsoft.com/vcpkg/get_started/get-started)
